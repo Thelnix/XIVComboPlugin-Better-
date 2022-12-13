@@ -227,6 +227,8 @@ namespace XIVComboPlugin
                             if (level >= 26)
                                 return PLD.RageOfHalone;
                         }
+                        if (lastMove == PLD.RoyalAuthority && level >= 60)
+                            return PLD.Atonement;
                     }
 
                     return PLD.FastBlade;
