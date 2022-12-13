@@ -15,9 +15,11 @@
             BladeOfFaith = 25748,
             BladeOfTruth = 25749,
             BladeOfValor = 25750;
+            Atonement = 16460;
 
         public const ushort
             BuffRequiescat = 1368,
             BuffBladeOfFaithReady = 3019;
+            BuffSwordOath = 1902;
     }
 }
