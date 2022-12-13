@@ -1,8 +1,8 @@
 {
-  "Name": "XIV Combo",
+  "Name": "XIV Combo (Better)",
   "Author": "Attick",
-  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
-  "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
+  "Description": "Based on Attick plugin. This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+  "RepoUrl": "https://github.com/thelnix/XivComboPlugin-better-",
   "Punchline": "PvP, but in PvE!",
   "Tags": [ "Combo" ],
   "AcceptsFeedback": true,
